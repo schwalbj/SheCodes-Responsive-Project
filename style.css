@@ -42,7 +42,7 @@ p {
 
 .hero {
   background: var(--secondary-color);
-  padding: 14vmax 5vmin 9vmax;
+  padding: 10vmax 5vmin 9vmax;
 }
 
 .content-container {
