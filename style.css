@@ -45,6 +45,10 @@ p {
   padding: 14vmax 5vmin 9vmax;
 }
 
+.content-container {
+  padding: 8vmax 5vmin 5vmin;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
@@ -87,4 +91,8 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+}
+
+.nav-active-style {
+  color: var(--primary-color) !important;
 }
