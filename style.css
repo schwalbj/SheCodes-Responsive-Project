@@ -56,7 +56,7 @@ p {
   justify-content: center;
 }
 
-.navigation-links a {
+.button {
   margin: 20px;
   border-radius: 4px;
   padding: 20px 15px;
@@ -64,7 +64,7 @@ p {
   text-transform: capitalize;
 }
 
-.contact-link {
+.solid-button {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
