@@ -73,6 +73,10 @@ p {
   border: 1px solid var(--primary-color);
 }
 
+.transparent-button:hover {
+  color: black;
+}
+
 .email-link {
   display: flex;
   justify-content: center;
